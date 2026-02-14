@@ -1,2 +1,2 @@
 # Three-Kingdoms-Scenario
-The Han Dynasty has fallen and now, in 220 BC, now China is split between Shu, Wu and Wei all fighting to unify China.
+Adds the "Gifts of the Nile" scenario from civ6! Unify Egypt or play as Nubia!
