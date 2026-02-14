@@ -48,7 +48,7 @@
 		"movement": 2,
 		"strength": 25,
 		"cost": 65,
-		"requiredTech": "Bronze Working",
+		"requiredTech": "Agriculture",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
 		"attackSound": "metalhit"
 	},
