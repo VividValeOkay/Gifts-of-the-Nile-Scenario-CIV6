@@ -105,5 +105,24 @@
 			}
     ]
   },
+	{
+		"columnNumber": 4,
+		"era": "Classical era",
+		"techCost": 1300,
+		"buildingCost": 40,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Celestial Navigation",
+				"row": 1,
+				"prerequisites": ["Sailing"],
+			},
+			{
+				"name": "Mathematics",
+				"row": 2,
+				"prerequisites": ["Sailing","Irrigation"],
+			},
+    ]
+  },
 ]
   
