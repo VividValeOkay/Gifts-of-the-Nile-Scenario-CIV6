@@ -24,14 +24,17 @@
 			{
 				"name": "Fishing",
 				"row": 2,
+				"prerequisites": ["Agriculture"],
 			},
 			{
 				"name": "Mining",
 				"row": 4,
+				"prerequisites": ["Agriculture"],
 			},
 			{
 				"name": "Animal Husbandry",
 				"row": 7,
+				"prerequisites": ["Agriculture"],
 			}
     ]
   },
