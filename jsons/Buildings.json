@@ -58,4 +58,10 @@
 		"cost": 65,
 		"uniques": ["[+1 Food] from [Wheat] tiles [in this city]"],
 	},
+	{
+		"name": "Market",
+		"gold": 2,
+		"cost": 65,
+		"uniques": [""],
+	},
 ]
