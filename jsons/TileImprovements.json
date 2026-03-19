@@ -62,7 +62,7 @@
 		"culture": 2,
 		"terrainsCanBeBuiltOn": ["Desert"],
 		"turnsToBuild": 7,
-		"uniques": ["Pillaging this improvement yields approximately [+18 Gold]"],
+		"uniques": ["Cannot be built on [Desert] tiles <in tiles adjacent to [Sphinx] tiles>","Pillaging this improvement yields approximately [+18 Gold]"],
 		"techRequired": "Masonry",
 	},
 // Misc
