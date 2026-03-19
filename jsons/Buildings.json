@@ -51,4 +51,11 @@
 			"[+1 Production] from [Sheep] tiles [in this city]"],
 		"requiredTech": "Horseback Riding"
 	},
+	{
+		"name": "Granary",
+		"food": 2,
+		"maintenance": 1,
+		"cost": 65,
+		"uniques": ["[+1 Food] from [Wheat] tiles [in this city]"],
+	},
 ]
