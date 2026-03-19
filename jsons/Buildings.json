@@ -14,7 +14,8 @@
 		"name": "Nilometer",
 		"science": 2,
 		"food": 1,
-		"cost": 40,
+		"cost": 80,
+		"requiredTech": "Irrigation",
 		"maintenance": 1,
 		"uniques": ["Destroyed when the city is captured"]
 	},
