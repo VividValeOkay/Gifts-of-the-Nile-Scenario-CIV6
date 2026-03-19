@@ -62,9 +62,9 @@
 	{
 		"name": "Galley",
 		"unitType": "Melee Water",
-		"movement": 8,
-		"strength": 10,
-		"cost": 45,
+		"movement": 6,
+		"strength": 30,
+		"cost": 65,
 		"requiredTech": "Sailing",
 		"uniques": ["Cannot enter ocean tiles", "Never appears as a Barbarian unit"],
 		"attackSound": "nonmetalhit"
