@@ -20,7 +20,7 @@
 	{
 		"name": "Walls",
 		"cityStrength": 3,
-		"cityHealth": 5,
+		"cityHealth": 10,
 		"cost": 80,
 		"requiredTech": "Masonry",
 		"uniques": ["Destroyed when the city is captured"]
