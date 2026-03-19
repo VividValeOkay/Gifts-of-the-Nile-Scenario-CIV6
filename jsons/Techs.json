@@ -84,7 +84,7 @@
 				"name": "Medicine",
 				"row": 3,
 				"prerequisites": ["Irrigation"],
-				"uniques": ["[2] free [Settler] units appear <in [Capital] cities>"],
+				"uniques": ["[2] free [Settler] units appear"],
 			},
 			{
 				"name": "Fortification",
