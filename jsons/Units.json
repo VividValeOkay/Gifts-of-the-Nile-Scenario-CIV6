@@ -80,7 +80,7 @@
 		"attackSound": "arrow"
 	},
 	{
-		"name": "War Chariot",
+		"name": "Maryannu Chariot Archer",
 		"unitType": "Archery",
 		"uniqueTo": "Egypt",
 		"movement": 5,
