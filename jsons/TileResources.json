@@ -57,4 +57,16 @@
 					"Generated with weight [5] <in [Hybrid] Regions>",
 					"Generated near City States with weight [15]"]
 	},
+	{
+		"name": "Ivory",
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": ["Plains","Grassland"],
+		"gold": 2,
+		"improvement": "Camp",
+		"improvementStats": {"gold": 1},
+		"uniques": ["Generated with weight [35] <in [Plains] Regions>",
+					"Generated with weight [15] <in [Hybrid] Regions>",
+					"Generated near City States with weight [10]",
+					"Doesn't generate naturally <in [{Grassland} {Fresh Water}] tiles>"]
+	},
 ]
