@@ -27,9 +27,10 @@
 	},
 	{
 		"name": "Barracks",
-		"hurryCostModifier": 25,
+		"production": 1,
+		"cost": 90,
 		"maintenance": 1,
 		"uniques": ["New [Military] units start with [15] XP [in this city]", "Destroyed when the city is captured"],
-		"requiredTech": "Fortifications"
+		"requiredTech": "Fortifications",
 	},
 ]
