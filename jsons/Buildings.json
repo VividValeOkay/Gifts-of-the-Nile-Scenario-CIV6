@@ -13,9 +13,8 @@
 	{
 		"name": "Nilometer",
 		"science": 2,
-		"food": 1,
 		"cost": 80,
 		"requiredTech": "Irrigation",
-		"uniques": ["Must be on [Nile River]"]
+		"uniques": ["Must be next to [Nile River]","[+1 Food, +1 Production] from [Flood plains] tiles [in this city]"]
 	},
 ]
