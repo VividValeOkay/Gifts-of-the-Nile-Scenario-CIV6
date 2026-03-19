@@ -112,4 +112,14 @@
 		"[-1] Sight", "Can only attack [City] units"],
 		"attackSound": "throw"
 	},
+	{
+		"name": "Swordsman",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 14,
+		"cost": 75,
+		"requiredTech": "Iron Working",
+		"requiredResource": "Iron",
+		"attackSound": "metalhit"
+	},
 ]
