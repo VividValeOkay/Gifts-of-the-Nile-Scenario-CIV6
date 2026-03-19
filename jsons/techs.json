@@ -134,5 +134,19 @@
 			},
     ]
   },
+	{
+		"columnNumber": 5,
+		"era": "Medieval era",
+		"techCost": 1300,
+		"buildingCost": 40,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Future Tech",
+				"row": 4,
+				"prerequisites": ["Celestial Navigation","Mathematics","Iron Working","Horseback Riding"],
+			}
+		]
+	}
 ]
   
