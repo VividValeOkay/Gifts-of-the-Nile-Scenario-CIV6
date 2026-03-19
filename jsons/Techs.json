@@ -1,0 +1,152 @@
+[
+	{
+		"columnNumber": 0,
+		"era": "Ancient era",
+		"techCost": 20,
+		"buildingCost": 40,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Agriculture",
+				"row": 6,
+				"quote": "'Where tillage begins, other arts follow. The farmers therefore are the founders of human civilization.' - Daniel Webster",
+				"uniques": ["Starting tech"]
+			}
+		]
+	},
+	{
+		"columnNumber": 1,
+		"era": "Ancient era",
+		"techCost": 60,
+		"buildingCost": 40,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Fishing",
+				"row": 2,
+				"prerequisites": ["Agriculture"],
+			},
+			{
+				"name": "Mining",
+				"row": 4,
+				"prerequisites": ["Agriculture"],
+			},
+			{
+				"name": "Animal Husbandry",
+				"row": 7,
+				"prerequisites": ["Agriculture"],
+			}
+    ]
+  },
+	{
+		"columnNumber": 2,
+		"era": "Ancient era",
+		"techCost": 80,
+		"buildingCost": 40,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Sailing",
+				"row": 1,
+				"prerequisites": ["Fishing"],
+			},
+			{
+				"name": "Irrigation",
+				"row": 3,
+				"prerequisites": ["Fishing"],
+			},
+			{
+				"name": "Masonry",
+				"row": 5,
+				"prerequisites": ["Mining"],
+			},
+			{
+				"name": "Archery",
+				"row": 6,
+				"prerequisites": ["Animal Husbandry"],
+			},
+			{
+				"name": "The Wheel",
+				"row": 7,
+				"prerequisites": ["Animal Husbandry"],
+			}
+    ]
+  },
+	{
+		"columnNumber": 3,
+		"era": "Ancient era",
+		"techCost": 600,
+		"buildingCost": 40,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Medicine",
+				"row": 3,
+				"prerequisites": ["Irrigation"],
+			},
+			{
+				"name": "Fortification",
+				"row": 4,
+				"prerequisites": ["Mining"],
+			}
+    ]
+  },
+	{
+		"columnNumber": 4,
+		"era": "Ancient era",
+		"techCost": 900,
+		"buildingCost": 40,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Tomb Building",
+				"row": 5,
+				"prerequisites": ["Masonry"],
+			}
+    ]
+  },
+	{
+		"columnNumber": 4,
+		"era": "Classical era",
+		"techCost": 1300,
+		"buildingCost": 40,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Celestial Navigation",
+				"row": 1,
+				"prerequisites": ["Sailing"],
+			},
+			{
+				"name": "Mathematics",
+				"row": 2,
+				"prerequisites": ["Sailing","Irrigation"],
+			},
+			{
+				"name": "Iron Working",
+				"row": 4,
+				"prerequisites": ["Fortification"],
+			},
+			{
+				"name": "Horseback Riding",
+				"row": 7,
+				"prerequisites": ["The Wheel"],
+			},
+    ]
+  },
+	{
+		"columnNumber": 5,
+		"era": "Medieval era",
+		"techCost": 1300,
+		"buildingCost": 40,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Future Tech",
+				"row": 4,
+				"prerequisites": ["Celestial Navigation","Mathematics","Iron Working","Horseback Riding"],
+			}
+		]
+	}
+]
+  
