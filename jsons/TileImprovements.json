@@ -78,7 +78,7 @@
 		"name": "Encampment",
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Snow","Forest","Jungle"],
 		"turnsToBuild": 6,
-		"techRequired": "Fortifications",
+		"techRequired": "Fortification",
 		"uniques": ["Gives a defensive bonus of [50]%"],
 		"shortcutKey": "O"
 	},
