@@ -75,7 +75,7 @@
 		"techRequired": "Masonry",
 	},
 	{
-		"name": "Fort",
+		"name": "Encampment",
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Snow","Forest","Jungle"],
 		"turnsToBuild": 6,
 		"techRequired": "Fortifications",
