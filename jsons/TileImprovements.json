@@ -17,6 +17,13 @@
 		"uniques": ["Pillaging this improvement yields approximately [+20 Gold]"],
 		"shortcutKey": "M"
 	},
+	{
+		"name": "Quarry",
+		"turnsToBuild": 8,
+		"techRequired": "Mining",
+		"uniques": ["Can only be built to improve a resource", "Pillaging this improvement yields approximately [+20 Gold]"],
+		"shortcutKey": "Q"
+	},
 // Misc
 	{
 		"name": "City ruins",
