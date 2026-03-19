@@ -122,6 +122,11 @@
 				"row": 2,
 				"prerequisites": ["Sailing","Irrigation"],
 			},
+			{
+				"name": "Iron Working",
+				"row": 4,
+				"prerequisites": ["Fortification"],
+			},
     ]
   },
 ]
