@@ -53,13 +53,13 @@
 	{
 		"name": "Ashmunein",
 		"adjective": ["Ashmunein"],
-		"cityStateType": "Cultured",
+		"cityStateType": "Militaristic",
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "You have defeated us, we surrender.",
 		"outerColor": [0, 0, 0],
-		"innerColor": [127, 177, 236],
+		"innerColor": [255, 0, 0],
 		"cities": ["Ashmunein"]
 	},
 ]
