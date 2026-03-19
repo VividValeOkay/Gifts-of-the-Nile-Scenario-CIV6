@@ -50,4 +50,16 @@
             "Iken","Abu Simbel","Buhen","Dangeil","Miam"],
   },
 // City-States
+	{
+		"name": "Ashmunein",
+		"adjective": ["Ashmunein"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "You have defeated us, we surrender.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [127, 177, 236],
+		"cities": ["Ashmunein"]
+	},
 ]
