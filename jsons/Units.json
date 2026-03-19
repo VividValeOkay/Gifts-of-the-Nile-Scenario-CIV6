@@ -78,5 +78,17 @@
 		"cost": 40,
 		"requiredTech": "Archery",
 		"attackSound": "arrow"
-	}
+	},
+	{
+		"name": "War Chariot",
+		"unitType": "Archery",
+		"uniqueTo": "Egypt",
+		"movement": 5,
+		"strength": 6,
+		"rangedStrength": 10,
+		"cost": 56,
+		"requiredTech": "The Wheel",
+		"uniques": ["No defensive terrain bonus", "Rough terrain penalty"],
+		"attackSound": "arrow"
+	},
 ]
