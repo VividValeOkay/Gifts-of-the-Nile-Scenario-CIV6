@@ -62,6 +62,6 @@
 		"name": "Market",
 		"gold": 2,
 		"cost": 65,
-		"uniques": [""],
+		"uniques": ["Only available <after adopting [Hieroglyphics]>"],
 	},
 ]
