@@ -115,9 +115,9 @@
 	{
 		"name": "Swordsman",
 		"unitType": "Sword",
-		"movement": 2,
-		"strength": 14,
-		"cost": 75,
+		"movement": 4,
+		"strength": 35,
+		"cost": 90,
 		"requiredTech": "Iron Working",
 		"requiredResource": "Iron",
 		"attackSound": "metalhit"
