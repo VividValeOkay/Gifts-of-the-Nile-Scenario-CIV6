@@ -91,4 +91,14 @@
 		"uniques": ["No defensive terrain bonus", "Rough terrain penalty"],
 		"attackSound": "arrow"
 	},
+	{
+		"name": "Heavy Chariot",
+		"unitType": "Sword",
+		"movement": 5,
+		"strength": 7,
+		"cost": 56,
+		"requiredTech": "The Wheel",
+		"uniques": ["No defensive terrain bonus", "Rough terrain penalty"],
+		"attackSound": "arrow"
+	}
 ]
