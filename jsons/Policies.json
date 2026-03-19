@@ -47,22 +47,12 @@
         "uniques": ["Free [Settler] appears"],
         "policies": [
             {
-                "name": "Charismatic Leader",
+                "name": "Urban Planning",
                 "uniques": [
-                    "Gifts of Gold to City-States generate [+15]% more Influence",
-                    "Only available <before adopting [Diplomatic League]>",
+                    "[+1 Production] [in all cities]",
                 ],
                 "row": 1,
                 "column": 1
-            },
-            {
-                "name": "Diplomatic League",
-                "uniques": [
-                    "[-15]% City-State Influence degradation",
-                    "Only available <before adopting [Charismatic Leader]>",
-                ],
-                "row":1,
-                "column": 3
             },
             {
                 "name": "Hieroglyphics Complete",
