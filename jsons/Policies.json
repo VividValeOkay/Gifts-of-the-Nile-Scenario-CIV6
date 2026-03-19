@@ -1,6 +1,6 @@
 [
     {
-        "name": "Civic Tree",
+        "name": "Royal Dynasties",
         "era": "Ancient era",
         "priorities": {
             "Neutral": 5,
@@ -9,9 +9,6 @@
             "Domination": 5,
             "Scientific": 5
         },
-        "uniques": [
-            "[+1 Culture] [in capital]"
-        ],
         "policies": [
             {
                 "name": "Charismatic Leader",
@@ -22,10 +19,15 @@
                 "column": 1
             },
             {
-                "name": "Civic Tree Complete",
+                "name": "Diplomatic League",
                 "uniques": [
-                    "[+10]% growth [in all cities]",
-                ]
+                    "[-15]% City-State Influence degradation",
+                ],
+                "row":1,
+                "column": 3
+            },
+            {
+                "name": "Royal Dynasties Complete",
             }
         ]
     },
