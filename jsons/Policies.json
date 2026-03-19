@@ -16,7 +16,7 @@
             {
                 "name": "Charismatic Leader",
                 "uniques": [
-                    "[+1 Culture] [in capital]",
+                    "Gifts of Gold to City-States generate [+15]% more Influence",
                 ],
                 "row": 1,
                 "column": 1
