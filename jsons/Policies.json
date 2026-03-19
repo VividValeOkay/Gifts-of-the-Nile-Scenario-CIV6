@@ -14,10 +14,9 @@
         ],
         "policies": [
             {
-                "name": "Aristocracy",
+                "name": "Abu Simbel",
                 "uniques": [
-                    "[+15]% Production when constructing [All] wonders [in all cities]",
-                    "[+1 Happiness] per [10] population [in all cities]"
+                    "[+1 Culture] [in capital]",
                 ],
                 "row": 1,
                 "column": 1
