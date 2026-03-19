@@ -17,4 +17,12 @@
 		"requiredTech": "Irrigation",
 		"uniques": ["Must be next to [Nile River]","[+1 Food, +1 Production] from [Flood plains] tiles [in this city]"]
 	},
+	{
+		"name": "Walls",
+		"cityStrength": 3,
+		"cityHealth": 5,
+		"cost": 80,
+		"requiredTech": "Masonry",
+		"uniques": ["Destroyed when the city is captured"]
+	}
 ]
