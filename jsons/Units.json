@@ -122,4 +122,15 @@
 		"requiredResource": "Iron",
 		"attackSound": "metalhit"
 	},
+	{
+		"name": "Horseman",
+		"unitType": "Mounted",
+		"movement": 8,
+		"strength": 36,
+		"cost": 80,
+		"requiredTech": "Horseback Riding",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>" ],
+		"attackSound": "horse"
+	},
 ]
