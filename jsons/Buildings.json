@@ -33,4 +33,11 @@
 		"uniques": ["New [Military] units start with [15] XP [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Fortification",
 	},
+	{
+		"name": "Lighthouse",
+		"food": 1,
+		"gold": 1,
+		"cost": 120,
+		"requiredTech": "Celestial Navigation"
+	},
 ]
