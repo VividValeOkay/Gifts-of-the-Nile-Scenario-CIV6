@@ -110,4 +110,16 @@
 		"innerColor": [255, 0, 0],
 		"cities": ["Ihnasiya"]
 	},
+	{
+		"name": "Irem",
+		"adjective": ["Iremite"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "You have defeated us, we surrender.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 216, 0],
+		"cities": ["Irem"]
+	},
 ]
