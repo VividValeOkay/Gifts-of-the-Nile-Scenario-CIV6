@@ -49,6 +49,7 @@
 				"name": "Sailing",
 				"row": 1,
 				"prerequisites": ["Fishing"],
+				"uniques": ["Enables embarkation for land units"],
 			},
 			{
 				"name": "Irrigation",
