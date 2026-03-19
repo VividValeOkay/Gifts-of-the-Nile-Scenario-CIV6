@@ -71,7 +71,7 @@
 	"outerColor": [234, 225, 157],
 	"innerColor": [120, 61, 2],
 	"uniqueName": "Hellenistic Fusion",
-	"uniques": ["Will not be chosen for new games","Cannot build [Settler] units"],
+	"uniques": ["Comment [Should not be playable for scenario]","Cannot build [Settler] units"],
 	"cities": ["Pella"],
   },
 ]
