@@ -49,29 +49,5 @@
 	"cities": ["Kerma","Napata","Nuri","El-Kurru","Kawa","Sedeinga","Heh","Qasr Ibrim","Faras","Shaat",
             "Iken","Abu Simbel","Buhen","Dangeil","Miam"],
   },
-// Non-playable
-  {
-    "name": "Macedon",
-	"leaderName": "Alexander",
-	"adjective": ["Macedonian"],
-
-    "startIntroPart1": "From the first stirrings of life beneath water... to the great beasts of the Stone Age... to man taking his first upright steps, you have come far. Now begins your greatest quest: from this early cradle of civilization on towards the stars.",
-    "startIntroPart2": "Kaa, watchful King of Nubia, the empire you command shall claim the horizon as its border. Don't fear those who covet your abundant gold, for your archers can part their hair at five hundred paces. Your cities shall know prosperity and piety, wise king, for the Land of the Bow honors its past as surely as it builds its own future.",
-
-	"declaringWar": "The armies of Greece await you with open arms!",
-	"attacked": "Peace was never of all that much interest to me anyway.",
-	"defeated": "Just as quickly as it began, my long march finally comes to end.",
-	"introduction": "Greetings! I am Alexander of Macedon, the King and the Pharaoh, the undefeated General of Greece! Surely you've heard of me?",
-
-	"neutralHello": "Hello.",
-	"hateHello": "Oh, it's you.",
-
-	"tradeRequest": "Let's come to an agreement...",
-
-	"outerColor": [174, 174, 174],
-	"innerColor": [247, 214, 1],
-	"uniqueName": "Hellenistic Fusion",
-	"uniques": ["Comment [Should not be playable for scenario]","Cannot build [Settler] units"],
-	"cities": ["Pella"],
-  },
+// City-States
 ]
