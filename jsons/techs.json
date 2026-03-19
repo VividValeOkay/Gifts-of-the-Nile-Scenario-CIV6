@@ -127,6 +127,11 @@
 				"row": 4,
 				"prerequisites": ["Fortification"],
 			},
+			{
+				"name": "Horseback Riding",
+				"row": 7,
+				"prerequisites": ["The Wheel"],
+			},
     ]
   },
 ]
