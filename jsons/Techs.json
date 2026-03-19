@@ -123,6 +123,7 @@
 				"name": "Mathematics",
 				"row": 2,
 				"prerequisites": ["Sailing","Irrigation"],
+				"uniques": ["[+1] Movement <for [Embarked] units>"],
 			},
 			{
 				"name": "Iron Working",
