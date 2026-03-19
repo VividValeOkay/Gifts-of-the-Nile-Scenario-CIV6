@@ -9,6 +9,7 @@
             "Domination": 5,
             "Scientific": 5
         },
+        "uniques": ["Free [Settler] appears"],
         "policies": [
             {
                 "name": "Charismatic Leader",
