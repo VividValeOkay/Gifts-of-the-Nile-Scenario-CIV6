@@ -20,9 +20,9 @@
 	{
 		"name": "Scout",
 		"unitType": "Scout",
-		"movement": 4,
-		"strength": 5,
-		"cost": 25,
+		"movement": 6,
+		"strength": 10,
+		"cost": 30,
 		"requiredTech": "Agriculture",
 		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
 		"attackSound": "nonmetalhit"
@@ -99,6 +99,6 @@
 		"cost": 65,
 		"requiredTech": "The Wheel",
 		"uniques": ["No defensive terrain bonus", "Rough terrain penalty"],
-		"attackSound": "arrow"
+		"attackSound": "nonmetalhit"
 	}
 ]
