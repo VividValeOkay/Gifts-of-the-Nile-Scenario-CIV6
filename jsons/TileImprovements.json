@@ -71,7 +71,7 @@
 		"food": 2,
 		"terrainsCanBeBuiltOn": ["Desert"],
 		"turnsToBuild": 7,
-		"uniques": ["Pillaging this improvement yields approximately [+18 Gold]"],
+		"uniques": ["[+1 Food] for each adjacent [City center]","Pillaging this improvement yields approximately [+18 Gold]"],
 		"techRequired": "Masonry",
 	},
 
