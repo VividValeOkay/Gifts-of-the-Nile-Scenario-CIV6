@@ -68,8 +68,8 @@
 
 	"tradeRequest": "Let's come to an agreement...",
 
-	"outerColor": [234, 225, 157],
-	"innerColor": [120, 61, 2],
+	"outerColor": [174, 174, 174],
+	"innerColor": [247, 214, 1],
 	"uniqueName": "Hellenistic Fusion",
 	"uniques": ["Comment [Should not be playable for scenario]","Cannot build [Settler] units"],
 	"cities": ["Pella"],
