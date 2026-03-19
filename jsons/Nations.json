@@ -70,8 +70,8 @@
 
 	"outerColor": [234, 225, 157],
 	"innerColor": [120, 61, 2],
-	"uniqueName": "Ta-Seti",
-	"uniques": ["[+20]% Production when constructing [All] wonders [in all cities]"],
+	"uniqueName": "Hellenistic Fusion",
+	"uniques": ["Will not be chosen for new games","Cannot build [Settler] units"],
 	"cities": ["Pella"],
   },
 ]
