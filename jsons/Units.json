@@ -83,10 +83,10 @@
 		"name": "Maryannu Chariot Archer",
 		"unitType": "Archery",
 		"uniqueTo": "Egypt",
-		"movement": 5,
-		"strength": 6,
-		"rangedStrength": 10,
-		"cost": 56,
+		"movement": 4,
+		"strength": 25,
+		"rangedStrength": 35,
+		"cost": 90,
 		"requiredTech": "The Wheel",
 		"uniques": ["No defensive terrain bonus", "Rough terrain penalty"],
 		"attackSound": "arrow"
@@ -94,7 +94,7 @@
 	{
 		"name": "Heavy Chariot",
 		"unitType": "Sword",
-		"movement": 5,
+		"movement": 4,
 		"strength": 7,
 		"cost": 56,
 		"requiredTech": "The Wheel",
