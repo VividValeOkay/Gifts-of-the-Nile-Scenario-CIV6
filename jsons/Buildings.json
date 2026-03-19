@@ -16,7 +16,6 @@
 		"food": 1,
 		"cost": 80,
 		"requiredTech": "Irrigation",
-		"maintenance": 1,
-		"uniques": ["Destroyed when the city is captured"]
+		"uniques": ["Must be on [Nile River]"]
 	},
 ]
