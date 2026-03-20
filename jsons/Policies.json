@@ -69,7 +69,7 @@
             "Domination": 5,
             "Scientific": 5
         },
-        "uniques": ["Free [Settler] appears"],
+        "uniques": ["May buy [Obelisk] buildings for [200] [Faith] [in all cities]"],
         "policies": [
             {
                 "name": "Mummification II",
