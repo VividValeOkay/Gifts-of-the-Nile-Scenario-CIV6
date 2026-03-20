@@ -77,6 +77,6 @@
 		"culture": 2,
 		"cost": 200,
 		"maintenance": 1,
-		"uniques": ["Only available <after adopting [Mummification]>"],
+		"uniques": ["Unbuildable","Only available <after adopting [Mummification]>"],
 	},
 ]
