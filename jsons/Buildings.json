@@ -64,4 +64,12 @@
 		"cost": 120,
 		"uniques": ["Only available <after adopting [Hieroglyphics]>"],
 	},
+	{
+		"name": "Shrine",
+		"faith": 2,
+		"cost": 70,
+		"maintenance": 1,
+		"requiredTech": "Pottery",
+		"uniques": ["Only available <when religion is enabled>","Only available <after adopting [Mummification]>"]
+	},
 ]
