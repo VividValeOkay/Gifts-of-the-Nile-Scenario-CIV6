@@ -69,13 +69,12 @@
 		"faith": 2,
 		"cost": 70,
 		"maintenance": 1,
-		"requiredTech": "Pottery",
 		"uniques": ["Only available <when religion is enabled>","Only available <after adopting [Mummification]>"]
 	},
 	{
 		"name": "Obelisk",
 		"culture": 2,
-		"cost": 200,
+		"cost": 0,
 		"maintenance": 1,
 		"uniques": ["Unbuildable","Only available <after adopting [Mummification]>"],
 	},
