@@ -57,7 +57,7 @@
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "You have defeated us, we surrender.",
+		"defeated": "It is over. Perhaps now I shall have peace, at last.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255, 0, 0],
 		"cities": ["Ashmunein"]
@@ -105,7 +105,7 @@
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "You have defeated us, we surrender.",
+		"defeated": "It is over. Perhaps now I shall have peace, at last.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255, 0, 0],
 		"cities": ["Ihnasiya"]
@@ -141,7 +141,7 @@
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "You have defeated us, we surrender.",
+		"defeated": "It is over. Perhaps now I shall have peace, at last.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255, 0, 0],
 		"cities": ["Nekhen"]
