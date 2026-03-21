@@ -78,4 +78,11 @@
 		"maintenance": 1,
 		"uniques": ["Unbuildable","Only available <after adopting [Mummification]>"],
 	},
+	{
+		"name": "Workshop",
+		"cost": 195
+		"maintenance": 1,
+		"production": 3,
+		"uniques": ["Only available <after adopting [State Workforce]>"],
+	},
 ]
