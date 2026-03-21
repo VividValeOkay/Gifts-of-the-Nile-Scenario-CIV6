@@ -117,7 +117,7 @@
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "You have defeated us, we surrender.",
+		"defeated": "What treachery has struck us? No, what evil?",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255, 216, 0],
 		"cities": ["Irem"]
@@ -129,7 +129,7 @@
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "You have defeated us, we surrender.",
+		"defeated": "What treachery has struck us? No, what evil?",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255, 216, 0],
 		"cities": ["Kharga"]
