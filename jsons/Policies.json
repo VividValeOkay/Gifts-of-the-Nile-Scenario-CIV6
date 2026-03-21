@@ -97,9 +97,9 @@
         "uniques": ["Free [Settler] appears"],
         "policies": [
             {
-                "name": "Corvée",
+                "name": "Ilkum",
                 "uniques": [
-                    "[+1 Production] [in all cities]",
+                    "[+30]% Production when constructing [Worker] units [in all cities]",
                 ],
                 "row": 1,
                 "column": 1
