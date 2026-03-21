@@ -165,7 +165,7 @@
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "You have defeated us, we surrender.",
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [56, 255, 112],
 		"cities": ["Punt"]
