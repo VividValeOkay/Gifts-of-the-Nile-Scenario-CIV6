@@ -97,7 +97,7 @@
         "uniques": ["Free [Settler] appears"],
         "policies": [
             {
-                "name": "State Workforce II",
+                "name": "Corvée",
                 "uniques": [
                     "[+1 Production] [in all cities]",
                 ],
