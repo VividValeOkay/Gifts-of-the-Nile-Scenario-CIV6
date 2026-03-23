@@ -175,7 +175,7 @@
             {
                 "name": "Military Communication",
                 "uniques": [
-                    "[+1 Gold] [in all cities connected to capital]"
+                    "[+2] Movement <for [Land] units>"
                 ],
                 "row": 1,
                 "column": 3
