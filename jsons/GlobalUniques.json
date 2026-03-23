@@ -3,6 +3,7 @@
     "uniques": ["[-70]% Culture cost of adopting new Policies",
                 "[-75]% Unhappiness from [Population] [in all cities]",
                 "[-50]% unhappiness from the number of cities",
+                "[+1 Culture] per [1] population [in capital]",
     
                 "Rebel units may spawn <when below [-9] [Happiness]>",
                 "[-25]% [Food] [in all cities] <when below [-1] [Happiness]>"]
