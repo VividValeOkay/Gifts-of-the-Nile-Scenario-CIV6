@@ -175,7 +175,8 @@
             {
                 "name": "Military Communication",
                 "uniques": [
-                    "[+2] Movement <for [Land] units>"
+                    "[+2] Movement <for [Land] units>",
+                    "Only available <before adopting [Recordkeeping]>"
                 ],
                 "row": 1,
                 "column": 3
@@ -183,7 +184,8 @@
             {
                 "name": "Recordkeeping",
                 "uniques": [
-                    "[+1 Gold] [in all cities connected to capital]"
+                    "[3] units cost no maintenance",
+                    "Only available <before adopting [Military Communication]>"
                 ],
                 "row": 1,
                 "column": 6
