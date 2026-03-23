@@ -165,7 +165,7 @@
         "uniques": ["Free [Settler] appears"],
         "policies": [
             {
-                "name": "Mercenaries",
+                "name": "Land Surveyors",
                 "uniques": [
                     "[Gold] cost of purchasing [Military] units [-20]%"
                 ],
@@ -173,12 +173,20 @@
                 "column": 1
             },
             {
-                "name": "Caravansaries",
+                "name": "Military Communication",
                 "uniques": [
                     "[+1 Gold] [in all cities connected to capital]"
                 ],
                 "row": 1,
                 "column": 3
+            },
+            {
+                "name": "Recordkeeping",
+                "uniques": [
+                    "[+1 Gold] [in all cities connected to capital]"
+                ],
+                "row": 1,
+                "column": 6
             },
             {
                 "name": "Scribes Complete",
