@@ -2,5 +2,7 @@
     "name": "Global Uniques",
     "uniques": ["[-70]% Culture cost of adopting new Policies",
                 "[-75]% Unhappiness from [Population] [in all cities]",
-                "[-50]% unhappiness from the number of cities"]
+                "[-50]% unhappiness from the number of cities",
+    
+                "Rebel units may spawn <when below [-9] [Happiness]>"]
 }
