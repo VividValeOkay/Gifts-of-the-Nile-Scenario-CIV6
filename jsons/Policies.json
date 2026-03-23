@@ -167,7 +167,7 @@
             {
                 "name": "Land Surveyors",
                 "uniques": [
-                    "[Gold] cost of purchasing [Military] units [-20]%"
+                    "[-20]% Gold cost of acquiring tiles [in all cities]"
                 ],
                 "row": 1,
                 "column": 1
