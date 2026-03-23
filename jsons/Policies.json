@@ -134,17 +134,15 @@
             {
                 "name": "Mercenaries",
                 "uniques": [
-                    "[+30]% Production when constructing [Worker] units [in all cities]",
-                    "Only available <before adopting [Corvée]>"
+                    "[+30]% Production when constructing [Worker] units [in all cities]"
                 ],
                 "row": 1,
                 "column": 1
             },
             {
-                "name": "Corvée",
+                "name": "Caravansaries",
                 "uniques": [
-                    "[+15]% Production when constructing [All] wonders [in all cities]",
-                    "Only available <before adopting [Ilkum]>"
+                    "[+15]% Production when constructing [All] wonders [in all cities]"
                 ],
                 "row": 1,
                 "column": 3
