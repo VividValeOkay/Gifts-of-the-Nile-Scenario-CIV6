@@ -1,4 +1,5 @@
 {
     "name": "Global Uniques",
-    "uniques": ["[-70]% Culture cost of adopting new Policies"]
+    "uniques": ["[-70]% Culture cost of adopting new Policies",
+                "[-75]% Unhappiness from [Population] [in all cities]"]
 }
