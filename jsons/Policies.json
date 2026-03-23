@@ -142,7 +142,7 @@
             {
                 "name": "Caravansaries",
                 "uniques": [
-                    "[+15]% Production when constructing [All] wonders [in all cities]"
+                    "[+1 Gold] [in all cities connected to capital]"
                 ],
                 "row": 1,
                 "column": 3
