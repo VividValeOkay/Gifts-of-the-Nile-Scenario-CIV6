@@ -24,7 +24,7 @@
 		"strength": 10,
 		"cost": 30,
 		"requiredTech": "Agriculture",
-		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
+		"uniques": ["Never appears as a Barbarian unit"],
 		"attackSound": "nonmetalhit"
 	},
 	{
@@ -34,7 +34,6 @@
 		"strength": 20,
 		"cost": 40,
 		"requiredTech": "Agriculture",
-		"uniques": ["May upgrade to [Spearman] through ruins-like effects"],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "This is your basic, club-swinging fighter."}
@@ -132,5 +131,17 @@
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>" ],
 		"attackSound": "horse"
+	},
+	{
+		"name": "Pítati Archer",
+		"unitType": "Archery",
+		"uniqueTo": "Nubia",
+		"replaces": "Archer",
+		"movement": 2,
+		"strength": 5,
+		"rangedStrength": 7,
+		"cost": 40,
+		"requiredTech": "Archery",
+		"attackSound": "arrow"
 	},
 ]
