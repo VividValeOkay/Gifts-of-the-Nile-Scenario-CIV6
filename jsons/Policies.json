@@ -134,7 +134,7 @@
             {
                 "name": "Mercenaries",
                 "uniques": [
-                    "[+30]% Production when constructing [Worker] units [in all cities]"
+                    "[Gold] cost of purchasing [Military] units [-20]%"
                 ],
                 "row": 1,
                 "column": 1
