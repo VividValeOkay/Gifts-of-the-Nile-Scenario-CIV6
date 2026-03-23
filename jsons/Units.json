@@ -72,9 +72,10 @@
 		"name": "Archer",
 		"unitType": "Archery",
 		"movement": 2,
-		"strength": 5,
-		"rangedStrength": 7,
-		"cost": 40,
+		"strength": 15,
+		"rangedStrength": 25,
+		"range": 2,
+		"cost": 60,
 		"requiredTech": "Archery",
 		"attackSound": "arrow"
 	},
