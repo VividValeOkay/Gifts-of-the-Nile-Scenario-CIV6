@@ -152,7 +152,7 @@
 		"movement": 4,
 		"strength": 26,
 		"cost": 110,
-		"uniques": ["Only available <after adopting [Book of the Dead]>"],
+		"uniques": ["Only available <in cities with a [Shrine]>"],
 		"attackSound": "metalhit"
 	},
 ]
