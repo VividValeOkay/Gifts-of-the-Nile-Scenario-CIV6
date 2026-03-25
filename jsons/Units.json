@@ -152,7 +152,7 @@
 		"movement": 4,
 		"strength": 26,
 		"cost": 110,
-		"requiredTech": "Iron Working",
+		"uniques": ["Only available <after adopting [Book of the Dead]>"],
 		"attackSound": "metalhit"
 	},
 ]
