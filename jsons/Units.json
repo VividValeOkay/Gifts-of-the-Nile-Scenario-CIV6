@@ -146,4 +146,13 @@
 		"requiredTech": "Archery",
 		"attackSound": "arrow"
 	},
+	{
+		"name": "Medjay",
+		"unitType": "Sword",
+		"movement": 4,
+		"strength": 26,
+		"cost": 110,
+		"requiredTech": "Iron Working",
+		"attackSound": "metalhit"
+	},
 ]
