@@ -90,6 +90,6 @@
 		"faith": 2,
 		"cost": 0,
 		"maintenance": 1,
-		"uniques": ["Unbuildable","Only available <when religion is enabled>"]
+		"uniques": ["Comment [Allows the creation of Medjay units]","Unbuildable","Only available <when religion is enabled>"]
 	},
 ]
