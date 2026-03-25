@@ -205,7 +205,7 @@
             "Domination": 5,
             "Scientific": 5
         },
-        "uniques": ["Comment [WIP]"],
+        "uniques": ["May buy [Shrine] buildings for [200] [Faith] [in all cities]"],
         "policies": [
             {
                 "name": "Book of the Dead II",
