@@ -152,7 +152,7 @@
 		"movement": 4,
 		"strength": 26,
 		"cost": 110,
-		"uniques": ["Only available <in cities with a [Shrine]>"],
+		"uniques": ["Only available <in cities with a [Shrine]>","[+50]% Strength <when fighting in [your] tiles>"],
 		"attackSound": "metalhit"
-	},
+	}
 ]
