@@ -140,7 +140,7 @@
                 "column": 1
             },
             {
-                "name": "Caravansaries",
+                "name": "Trade Agreement",
                 "uniques": [
                     "[+1 Gold] [in all cities connected to capital]"
                 ],
